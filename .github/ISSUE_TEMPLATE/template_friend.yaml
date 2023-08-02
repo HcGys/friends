@@ -1,11 +1,11 @@
-name: 友链模板
+name: 加个友链吧！
 description: 自助添加友链。
 labels: []
 body:
   - type: checkboxes
     id: checks
     attributes:
-      label: 检查清单
+      label: 添加条件
       description: 请认真检查以下清单中的每一项，并在相符的项前打勾。
       options:
         - required: true
